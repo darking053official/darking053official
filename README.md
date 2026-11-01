@@ -32,7 +32,8 @@ Kullanıcı gizliliğini ön planda tutan projeler benim işim.
 
 | Alan | Teknolojiler |
 |------|-------------|
-| **Frontend** | HTML · CSS · JavaScript · TailwindCSS |
+| **Frontend** | HTML · CSS · JavaScript · Python · TailwindCSS |
+| **Uygulama** | Dart · Flutter · Kotlin |
 | **Backend** | Node.js · Express · Supabase |
 
 </div>
